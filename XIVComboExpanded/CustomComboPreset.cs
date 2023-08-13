@@ -813,7 +813,7 @@ public enum CustomComboPreset
     [CustomComboInfo("Melee combo", "Replace Redoublement with its combo chain, following enchantment rules. 将魔连攻替换为其连击链，遵循魔法剑的规则。", RDM.JobID)]
     RedMageMeleeCombo = 3502,
 
-    [CustomComboInfo("Melee Mana Stacks Feature", "Replace Redoublement and Moulinet with Verflare/Verholy at 3 mana stacks, using whichever mana color is lower. 当魔元堆叠为3时，使用魔元较低的颜色，将魔连攻和魔划圆斩替换为赤暴雷/赤神圣。, RDM.JobID)]
+    [CustomComboInfo("Melee Mana Stacks Feature", "Replace Redoublement and Moulinet with Verflare/Verholy at 3 mana stacks, using whichever mana color is lower. 当魔元堆叠为3时，使用魔元较低的颜色，将魔连攻和魔划圆斩替换为赤暴雷/赤神圣。", RDM.JobID)]
     RedMageMeleeManaStacksFeature = 3516,
 
     [CustomComboInfo("Melee Capstone Combo", "Replace Redoublement and Moulinet with Scorch and Resolution when available. 当可用时，将魔连攻和魔划圆斩替换为焦热和决断。", RDM.JobID)]
