@@ -643,7 +643,7 @@ public enum CustomComboPreset
     PaladinConfiteorFeature = 1907,
 
     [SecretCustomCombo]
-    [CustomComboInfo("Scornful Spirits Feature", "Replace Spirits Within/Expiacion and Circle of Scorn with whichever is available soonest. 将深奥之灵/偿赎剑和厄运流转替换为最快可用的技能。"", PLD.JobID)]
+    [CustomComboInfo("Scornful Spirits Feature", "Replace Spirits Within/Expiacion and Circle of Scorn with whichever is available soonest. 将深奥之灵/偿赎剑和厄运流转替换为最快可用的技能。", PLD.JobID)]
     PaladinScornfulSpiritsFeature = 1908,
 
     [CustomComboInfo("Shields on your Feet Feature", "Replace Shield Bash with Low Blow when available. 当技能可用时，将盾牌猛击替换为低劣打击。", PLD.JobID)]
